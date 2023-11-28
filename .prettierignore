@@ -1,0 +1,10 @@
+# Custom
+/build/**
+/dist/**
+/coverage/**
+/formio*
+/insomnnia/**
+node_modules/**
+package.json
+package-lock.json
+tmp
